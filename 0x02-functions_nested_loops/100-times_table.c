@@ -1,4 +1,4 @@
-#incude "main.h"
+#include "main.h"
 
 /**
 * Printes the n times table, starting from 0.
@@ -32,7 +32,7 @@ void print_times_table(int n)
 					_putchar(' ');
 					_putchar(' ');
 					_putchar((k / 10) + '0');
-					_pitchar ((k % 10) + '0');
+					_putchar ((k % 10) + '0');
 				}else if (k >= 100)
 				{
 					_putchar(',');
