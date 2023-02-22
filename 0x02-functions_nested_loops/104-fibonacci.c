@@ -12,7 +12,7 @@ int main(void)
 	unsigned long int bef1;
 	unsigned long bef2;
 	unsigned long aft1;
-	unsigned lomg aft2;
+	unsigned long aft2;
 
 	printf("%lu", bef);
 	for (i = 1; i < 91; i++)
