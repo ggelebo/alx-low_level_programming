@@ -7,7 +7,7 @@
 * Return: sum sof a and b
 */
 
-in add(int a, int b)
+int add(int a, int b)
 {
 	int c;
 	
