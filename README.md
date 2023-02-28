@@ -7,3 +7,4 @@ Low level programming and algorithm project at [ALX](https://intranet.alxswe.com
 3. [0x03. C - Debugging](https://intranet.alxswe.com/projects/539)
 4. [Professional Relationships](https://intranet.alxswe.com/projects/429)
 5. [0x04. C - More functions, more nested loops](https://intranet.alxswe.com/projects/215)
+6. [0x05. C - Pointers, arrays and strings](https://intranet.alxswe.com/projects/216)
