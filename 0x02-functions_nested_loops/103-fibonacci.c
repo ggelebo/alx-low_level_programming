@@ -1,8 +1,12 @@
 #include <stdio.h>
+
 /**
-* Find and print the sum of the even-valued terms followed by a new line
-* Return:Always 0 (Success)
-*/
+ * main - Prints the add of the even-valued
+ * fibonacci numbers.
+ *
+ * Return: Always 0.
+ */
+
 int main(void)
 {
 	int i;
