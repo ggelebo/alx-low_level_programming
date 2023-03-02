@@ -1,8 +1,10 @@
 #include <stdio.h>
-/*
-* Prints first 50 Fibonacci numbers, starting with 1 and 2
-* separated by a comma followed by a white space.
-*/
+
+/**
+ * main - Prints the add of the Fibonacci numbers
+ *
+ * Return: Always 0.
+ */
 
 int main(void)
 {
