@@ -1,8 +1,10 @@
 #include "main.h"
+
 /**
-* Prints the 6 times table starting from 0
-*
-*/
+ * times_table - Prints the 9 times table
+ *
+ * Return: no return
+ */
 
 void times_table(void)
 {
@@ -13,7 +15,6 @@ void times_table(void)
 		for (j = 0; j < 10; j++)
 		{
 			k = j * i;
-	
 			if (j == 0)
 			{
 				_putchar(k + '0');
