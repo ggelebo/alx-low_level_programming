@@ -10,4 +10,4 @@ Low level programming and algorithm project at [ALX Software Engineering](https:
 6. [0x04. C - More functions, more nested loops](https://intranet.alxswe.com/projects/215)
 7. [0x05. C - Pointers, arrays and strings](https://intranet.alxswe.com/projects/216)
 8. [0x06. C - More pointers, arrays and strings](https://intranet.alxswe.com/projects/217)
-
+9. [0x07. C - Even more pointers, arrays and strings](https://intranet.alxswe.com/projects/218)
