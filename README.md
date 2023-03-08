@@ -11,4 +11,4 @@ Low level programming and algorithm project at [ALX Software Engineering](https:
 7. [0x05. C - Pointers, arrays and strings](https://intranet.alxswe.com/projects/216)
 8. [0x06. C - More pointers, arrays and strings](https://intranet.alxswe.com/projects/217)
 9. [0x07. C - Even more pointers, arrays and strings](https://intranet.alxswe.com/projects/218)
-10.[0x08. C - Recursion](https://intranet.alxswe.com/projects/219)
+10. [0x08. C - Recursion](https://intranet.alxswe.com/projects/219)
