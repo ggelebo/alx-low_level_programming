@@ -267,11 +267,11 @@ int _islower(int c)
 	return (c >= 'a' && c <= 'z');
 }
 
-3-puts.c/       0           0     0     644     220       `
+3-puts.c/       0           0     0     644     224       `
 #include "main.h"
 #include <stdio.h>
 
-void _puts(char *str)
+/*void _puts(char *str)*/
 
 /**
  * main - Entry point
